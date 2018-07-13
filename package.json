@@ -1,0 +1,18 @@
+{
+    "name": "roboshoes",
+    "version": "1.0.0",
+    "private": true,
+    "description": "personal portfolio",
+    "scripts": {
+        "dev": "parcel index.html"
+    },
+    "devDependencies": {
+        "@types/react": "^16.4.6",
+        "@types/react-dom": "^16.0.6",
+        "less": "^3.7.1",
+        "parcel-bundler": "^1.9.6",
+        "react": "^16.4.1",
+        "react-dom": "^16.4.1",
+        "typescript": "^2.9.2"
+    }
+}
